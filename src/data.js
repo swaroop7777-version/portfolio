@@ -1,4 +1,4 @@
-export const ABOUT = `I build AI systems that ship — and backend services that scale. Three years at Hexaware engineering Java and Spring Boot services for Delta Air Lines and Gilbarco Veeder-Root. MSc dissertation: deployed Mistral 7B on the University of Liverpool's Barkla GPU cluster, serving grounded answers through a full RAG pipeline. Grade A from both markers.`
+export const ABOUT = `I build AI systems that ship — and backend services that scale. Three years at Hexaware engineering Java and Spring Boot services for Delta Air Lines and Gilbarco Veeder-Root. MSc dissertation: deployed Mistral 7B on the University of Liverpool's Barkla GPU cluster, serving grounded answers through a full RAG pipeline.`
 
 export const WORK = [
   {
